@@ -1,0 +1,605 @@
+[
+  {
+    "movies": [
+      {
+        "name": "Deadpool",
+        "releaseDate": "2016",
+        "banner": "https://image.tmdb.org/t/p/w185//fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+        "movieEmbed": "https://usa7-cache9-1.shegu.net/vip/p1/movie_mp4_h264/2016/2/9/219/movie.219.2016.1080p.H264.20200531104252.mp4?KEY1=tPJT_isssptveasGHyZSHA&KEY2=1692403116"
+      },
+      {
+        "name": "Deadpool 2",
+        "releaseDate": "2018",
+        "banner": "https://image.tmdb.org/t/p/w185//to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "movieEmbed": "https://usa7-nas18.shegu.net/vip/p1/movie_mp4_h264/2018/6/0/6440/movie.6440.2018.1080p.H264.20210624072104.mp4?KEY1=hX6mIC32DIuBsxrdMygr6A&KEY2=1692403239"
+      },
+      {
+        "name": "Morbius",
+        "releaseDate": "2022",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141109225049833492/images.jpg",
+        "movieEmbed": "https://usa7-nas19.shegu.net/vip/p1/movie_mp4_h264/2022/3/3/32343/movie.32343.2022.1080p.H264.20220607022548.mp4?KEY1=x6jGoOqmZuGIRMIbwMg8ng&KEY2=1692401726"
+      },
+      {
+        "name": "Shrek",
+        "releaseDate": "2001",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141110522582925382/images_1.jpg",
+        "movieEmbed": "https://usa7-nas20-1.shegu.net/vip/p1/movie_mp4_h264/2001/4/0/4130/movie.4130.2001.1080p.H264.20210702023217.mp4?KEY1=LhFbuzQQOBsFIa9lbX0GYA&KEY2=1692401764"
+      },
+      {
+        "name": "Shrek 2",
+        "releaseDate": "2004",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1142180825266389042/images.jpg",
+        "movieEmbed": "https://usa7-cache6.shegu.net/vip/p1/movie_mp4_h264/2004/1/7/1737/movie.1737.2004.1080p.H264.20200716030011.mp4?KEY1=7IHkHxbDcm7SnOQuUCWm_g&KEY2=1692401830"
+      },
+      {
+        "name": "Shrek the Third",
+        "releaseDate": "2007",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1142181256596029470/images.jpg",
+        "movieEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/movie_mp4_h264/2007/1/9/1739/movie.1739.2007.1080p.H264.20190529053438.mp4?KEY1=IYehJ3k7CmbH0sHn__KCdQ&KEY2=1692402012"
+      },
+      {
+        "name": "Shrek: The Musical",
+        "releaseDate": "2008",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141111736037023904/content.jpg",
+        "movieEmbed": "https://usa7-cache1-1.shegu.net/vip/p1/movie_mp4_h264/2013/3/1/3381/movie.3381.2013.1080p.H264.20190413174326.mp4?KEY1=J-wm-5QjrIvJQ7NIRHxF_w&KEY2=1692402158"
+      },
+      {
+        "name": "Suicide Squad",
+        "releaseDate": "2016",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141118127736885248/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE._V1_.jpg",
+        "movieEmbed": "https://usa7-nas19-1.shegu.net/vip/p1/movie_mp4_h264/2016/1/9/1219/movie.1219.2016.1080p.H264.20210517022659.mp4?KEY1=jZl3SskivAwQW9funvgfHw&KEY2=1692402191"
+      },
+      {
+        "name": "Spider-Man: Far From Home",
+        "releaseDate": "2019",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141118203217584299/images.jpg",
+        "movieEmbed": "https://usa7-nas23-1.shegu.net/vip/p1/movie_mp4_h264/2019/1/9/14639/movie.14639.2019.1080p.H264.20200609115340.mp4?KEY1=w20o0ow-UnajDy3u8XXNaQ&KEY2=1692402223"
+      },
+      {
+        "name": "Spider-Man: No Way Home",
+        "releaseDate": "2021",
+        "banner": "https://image.tmdb.org/t/p/w185//5weKu49pzJCt06OPpjvT80efnQj.jpg",
+        "movieEmbed": "https://usa7-cache1.shegu.net/vip/p1/movie_mp4_h264/2021/4/4/40394/movie.40394.2021.1080p.H264.20220329074809.mp4?KEY1=j9g2kJ4SL26jQWxmJt8V8A&KEY2=1692402499"
+      },
+      {
+        "name": "Spider-Man: Homecoming",
+        "releaseDate": "2017",
+        "banner": "https://image.tmdb.org/t/p/w185//c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+        "movieEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/movie_mp4_h264/2017/2/5/225/movie.225.2017.1080p.H264.20200531170115.mp4?KEY1=0cZ-7zc069TH7ZOcHU2SDw&KEY2=1692402643"
+      },
+      {
+        "name": "Spider-Man 3",
+        "releaseDate": "2007",
+        "banner": "https://image.tmdb.org/t/p/w185//qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+        "movieEmbed": "https://usa7-cache11.shegu.net/vip/p1/movie_mp4_h264/2007/3/4/3594/movie.3594.2007.1080p.H264.20200613070608.mp4?KEY1=6125oO-pSgLIk-wTyYwD2w&KEY2=1692402715"
+      },
+      {
+        "name": "The Croods",
+        "releaseDate": "2013",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141118274608836720/images_1.jpg",
+        "movieEmbed": "https://usa7-nas22.shegu.net/vip/p1/movie_mp4_h264/2013/2/6/2436/movie.2436.2013.1080p.H264.20200614211338.mp4?KEY1=fzy2eeLsyJdPG1bPknR1lQ&KEY2=1692402250"
+      },
+      {
+        "name": "The Croods: A New Age",
+        "releaseDate": "2013",
+        "banner": "https://image.tmdb.org/t/p/w185//tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+        "movieEmbed": "https://usa7-nas07-1.shegu.net/vip/p1/movie_mp4_h264/2020/2/1/29971/movie.29971.2020.1080p.H264.20210513194542.mp4?KEY1=W0JwPz5dQE9S3VnqEEBf6g&KEY2=1692402961"
+      },
+      {
+        "name": "Black Panther: Better than Black Panther 2",
+        "releaseDate": "2018",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141118348252434442/Black_Panther_film_poster.jpg",
+        "movieEmbed": "https://usa7-nas02-1.shegu.net/vip/p1/movie_mp4_h264/2018/1/9/13099/movie.13099.2018.1080p.H264.20210324021630.mp4?KEY1=SGQrJ9axiwQlXsRH8HXJcg&KEY2=1692402280"
+      },
+      {
+        "name": "Avengers: Infinity War",
+        "releaseDate": "2018",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1141118440069922836/images_2.jpg",
+        "movieEmbed": "https://usa7-nas10.shegu.net/vip/p1/movie_mp4_h264/2018/6/7/6437/movie.6437.2018.1080p.H264.20200609080655.mp4?KEY1=dAgj6OxagmltcBFClFN76Q&KEY2=1692402350"
+      },
+      {
+        "name": "Spiderman: Into The Spiderverse",
+        "releaseDate": "2018",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1142156513624985790/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM._V1_FMjpg_UX1000_.jpg",
+        "movieEmbed": "https://usa7-cache12-1.shegu.net/vip/p1/movie_mp4_h264/2018/1/6/12696/movie.12696.2018.1080p.H264.20200607204530.mp4?KEY1=pJFYuu-Jqga6ppjN_e2faA&KEY2=1692402398"
+      },
+      {
+        "name": "Free Guy",
+        "releaseDate": "2021",
+        "banner": "https://image.tmdb.org/t/p/w185//xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+        "movieEmbed": "https://usa7-cache6.shegu.net/vip/p1/movie_mp4_h264/2021/2/6/25416/movie.25416.2021.1080p.H264.20210924091500.mp4?KEY1=aH7ZnfjLZrWnapwr0_1RWQ&KEY2=1692408084"
+      },
+      {
+        "name": "The Adam Project",
+        "releaseDate": "2021",
+        "banner": "https://image.tmdb.org/t/p/w185//wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+        "movieEmbed": "https://usa7-nas20.shegu.net/vip/p1/movie_mp4_h264/2022/4/1/44381/movie.44381.2022.1080p.H264.20220311050811.mp4?KEY1=XD4x0hKudldIhgHHwcW0Cg&KEY2=1692408179"
+      },
+      {
+        "name": "A Wrinkle in Time",
+        "releaseDate": "2018",
+        "banner": "https://image.tmdb.org/t/p/w185//yAcb58vipewa1BfNit2RjE6boXA.jpg",
+        "movieEmbed": "https://usa7-nas02-1.shegu.net/vip/p1/movie_mp4_h264/2018/3/1/31/movie.31.2018.1080p.H264.20200605031500.mp4?KEY1=wszfRq7ygMUDtuUToVKwcg&KEY2=1692473293"
+      },
+      {
+        "name": "Guardians of the Galaxy",
+        "releaseDate": "2014",
+        "banner": "https://image.tmdb.org/t/p/w185//r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "movieEmbed": "https://usa7-cache14.shegu.net/vip/p1/movie_mp4_h264/2014/2/1/221/movie.221.2014.1080p.H264.20200601005236.mp4?KEY1=C3jsyuP4hFLPAIPPARR3yg&KEY2=1692473372"
+      },
+      {
+        "name": "Guardians of the Galaxy Vol. 2",
+        "releaseDate": "2017",
+        "banner": "https://image.tmdb.org/t/p/w185//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+        "movieEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/movie_mp4_h264/2017/2/4/224/movie.224.2017.1080p.H264.20200601033151.mp4?KEY1=_XkzIg1ufOrXY6MK1EWimg&KEY2=1692473419"
+      }
+    ]
+  },
+  {
+    "tvshows": [
+      {
+        "name": "The Boys",
+        "releaseDate": "idk",
+        "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1142153729978663062/The_boys.jpg",
+        "seasons": [
+          {
+            "season": 1,
+            "episodes": [
+              {
+                "name": "The Name Of The Game",
+                "episodeEmbed": "https://usa7-cache8-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E1.1080p.H264.20200705142526.mp4?KEY1=M5muc1kl8lmAjsRc2djUMA&KEY2=1692395152",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Cherry",
+                "episodeEmbed": "https://usa7-cache4.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E2.1080p.H264.20200705203449.mp4?KEY1=t-4Ef6VDxJXeDNjOlcYRSw&KEY2=1692403584",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Get Some",
+                "episodeEmbed": "https://usa7-nas16.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E3.1080p.H264.20200705170057.mp4?KEY1=wL1xL3wJwLfPnE0Un7QIhA&KEY2=1692403611",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Female of the Species",
+                "episodeEmbed": "https://usa7-cache1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E4.1080p.H264.20200919053918.mp4?KEY1=t8H3RXmNV-9dJ08X9PjPJA&KEY2=1692403634",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Good for the Soul",
+                "episodeEmbed": "https://usa7-nas14.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E5.1080p.H264.20200705163201.mp4?KEY1=jBNWCda3OYsOIZjrYoPZCA&KEY2=1692403667",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Innocents",
+                "episodeEmbed": "https://usa7-cache6-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E6.1080p.H264.20200714231920.mp4?KEY1=Rw6rCpNg4dX-n63pLE_tPw&KEY2=1692403694",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Self-Preservation Society",
+                "episodeEmbed": "https://usa7-hs101.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E7.1080p.H264.20200919053913.mp4?KEY1=y-NV_fVfBRU5L8qvjaclOA&KEY2=1692403724",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "You Found Me",
+                "episodeEmbed": "https://usa7-cache5.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/1/tv.11255.S1E8.1080p.H264.20200714231554.mp4?KEY1=wzis5FZPUPTEwvwCk4xUAQ&KEY2=1692403755",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              }
+            ]
+          },
+          {
+            "season": 2,
+            "episodes": [
+              {
+                "name": "The Big Ride",
+                "episodeEmbed": "https://usa7-nas01.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E1.1080p.H264.20200904013408.mp4?KEY1=ZP8YmdDmb55pYHYoYYD0Pg&KEY2=1692403805",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Proper Preperation and Planning",
+                "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E2.1080p.H264.20200903234220.mp4?KEY1=mbUX2n7PI_MmGMjE-Zk4MA&KEY2=1692403820",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Over the Hill With the Swords of a Thousand Men",
+                "episodeEmbed": "https://usa7-cache4-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E3.1080p.H264.20200903234139.mp4?KEY1=TMYqsDMM690FXOKf7768rg&KEY2=1692403846",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Nothing Like It in the World",
+                "episodeEmbed": "https://usa7-hs101.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E4.1080p.H264.20200911022128.mp4?KEY1=PXfQRZq6Xayk_gO-SPsQYw&KEY2=1692403874",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "We Gotta Go Now",
+                "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E5.1080p.H264.20200918000550.mp4?KEY1=14jwalr9QBahwdFbIdCC1A&KEY2=1692403916",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Bloody Doors Off",
+                "episodeEmbed": "https://usa7-nas22-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E6.1080p.H264.20200925014526.mp4?KEY1=kpB41UPRaWNDuaCPsz7MJQ&KEY2=1692403948",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Butcher, Baker, Candlestick Maker",
+                "episodeEmbed": "https://usa7-nas21-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E7.1080p.H264.20201002084647.mp4?KEY1=H0FuHpMewifigRI441rsow&KEY2=1692403992",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "What I Know",
+                "episodeEmbed": "https://usa7-nas07.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/2/tv.11255.S2E8.1080p.H264.20201009013441.mp4?KEY1=wI-iekvEtvsjRe1y7Cb_GA&KEY2=1692404017",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              }
+            ]
+          },
+          {
+            "season": 3,
+            "episodes": [
+              {
+                "name": "Payback",
+                "episodeEmbed": "https://usa7-nas10-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E1.1080p.H264.20220603071103.mp4?KEY1=Cx5WZBmzbz5pxsW5dnSeWw&KEY2=1692404043",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Only Man in the Sky",
+                "episodeEmbed": "https://usa7-nas13-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E2.1080p.H264.20220603092109.mp4?KEY1=VCpcPe_xFALXYmmYbXjYkA&KEY2=1692404058",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Barbary Coast",
+                "episodeEmbed": "https://usa7-nas16.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E3.1080p.H264.20220603081503.mp4?KEY1=CrVM4uC14IkqL3ot5bqnDQ&KEY2=1692404084",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Glorious Five Year Plan",
+                "episodeEmbed": "https://usa7-nas07-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E4.1080p.H264.20220610014014.mp4?KEY1=zJltLtGL9zB1jN_Efh-RyQ&KEY2=1692404099",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Last Time to Look on This World of Lies",
+                "episodeEmbed": "https://usa7-nas23-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E5.1080p.H264.20220616233104.mp4?KEY1=qRuxGN13OH_hv97lpKft7A&KEY2=1692404128",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Herogasm",
+                "episodeEmbed": "https://usa7-cache14.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E6.1080p.H264.20220623230504.mp4?KEY1=Aj5oQnEiPyJhVAXakWs8Fg&KEY2=1692404283",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "Here Comes a Candle to Light You to Bed",
+                "episodeEmbed": "https://usa7-cache4-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E7.1080p.H264.20220701012504.mp4?KEY1=z2SQYt30K9rXWKFM6oFAzA&KEY2=1692404301",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              },
+              {
+                "name": "The Instant White-Hot Wild",
+                "episodeEmbed": "https://usa7-nas15-1.shegu.net/vip/p1/tv_mp4_h264/1/5/11255/3/tv.11255.S3E8.1080p.H264.20220707221203.mp4?KEY1=BDrfLCZ3gZ2X2H90z451WQ&KEY2=1692404329",
+                "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+              }
+            ]
+          },
+          {
+            "name": "Rick and Morty",
+            "releaseDate": "2013",
+            "banner": "https://image.tmdb.org/t/p/w185//cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+            "seasons": [
+              {
+                "season": 1,
+                "episodes": [
+                  {
+                    "name": "Pilot",
+                    "episodeEmbed": "https://usa7-cache1-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E1.1080p.H264.20200608004230.mp4?KEY1=6PfZStTYfVf76951mnynXw&KEY2=1692427602",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Lawnmower Dog",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E2.1080p.H264.20200608010617.mp4?KEY1=kfJhcMTdvklAZp54nZrn_w&KEY2=1692429008",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Anatomy Park",
+                    "episodeEmbed": "https://usa7-cache6.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E3.1080p.H264.20200608005152.mp4?KEY1=2f9Qzqdp-K_Ya7UAYLY2sQ&KEY2=1692464822",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "M. Night Shaym-Aliens!",
+                    "episodeEmbed": "https://usa7-nas01.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E4.1080p.H264.20200608010128.mp4?KEY1=VC9Wib_Wa0IHmIza0YIBRQ&KEY2=1692464849",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Meeseeks and Destroy",
+                    "episodeEmbed": "https://usa7-cache9-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E5.1080p.H264.20200609181535.mp4?KEY1=for6BUOUAg0QLql3OjVEfA&KEY2=1692464900",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rick Potion #9",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E6.1080p.H264.20200608002714.mp4?KEY1=KBkopQe6Cl0W8dj2RL2A9Q&KEY2=1692466052",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Raising Gazorpazorp",
+                    "episodeEmbed": "https://usa7-nas15.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E7.1080p.H264.20200608003745.mp4?KEY1=bA053U9TOyxslQRQ5pTXVg&KEY2=1692466463",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rixty Minutes",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E8.1080p.H264.20200608001907.mp4?KEY1=ZO13kkc68gyTYGENe7BS6A&KEY2=1692466655",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Something Ricked This Way Comes",
+                    "episodeEmbed": "https://usa7-nas21.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E9.1080p.H264.20200608004700.mp4?KEY1=kESEJ0g92LfeisH0qSyUEg&KEY2=1692466673",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Close Rick-Counters of Rick Kind",
+                    "episodeEmbed": "https://usa7-cache9-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E10.1080p.H264.20200608003235.mp4?KEY1=01Fk1CMtK1bT-Kf2kTP1pQ&KEY2=1692467988",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Ricksy Buisness",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/1/tv.8.S1E11.1080p.H264.20200608005641.mp4?KEY1=VpgUrBHkeWoTVTnMtymJ_w&KEY2=1692469094",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              },{
+                "season": 2,
+                "episodes": [
+                  {
+                    "name": "A Rickle in Time",
+                    "episodeEmbed": "https://usa7-hs101.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E1.1080p.H264.20200607233752.mp4?KEY1=qkCuZDAqBMEVswaSgLenCg&KEY2=1692469120",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Mortynight Run",
+                    "episodeEmbed": "https://usa7-cache6-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E2.1080p.H264.20200607234422.mp4?KEY1=hXGpnotf2Fp5HxTLnOa-5w&KEY2=1692469193",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Auto Erotic Assimilation",
+                    "episodeEmbed": "https://usa7-nas04-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E3.1080p.H264.20200609180322.mp4?KEY1=GEtsDqgQcejWJMODQV4KvQ&KEY2=1692469205",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Total Rickall",
+                    "episodeEmbed": "https://usa7-nas03.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E4.1080p.H264.20200609180549.mp4?KEY1=saDGlTQVRDNYjEYAVM43nw&KEY2=1692469224",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Get Shwifty",
+                    "episodeEmbed": "https://usa7-nas02.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E5.1080p.H264.20200607235830.mp4?KEY1=pLrwv7GJrcdR0j32dEajFw&KEY2=1692469299",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Ricks Must Be Crazy",
+                    "episodeEmbed": "https://usa7-nas03.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E6.1080p.H264.20200609181117.mp4?KEY1=rzyied1hpXhLVCrYBLvvRQ&KEY2=1692469326",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Big Trouble in Little Sanchez",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E7.1080p.H264.20200609180855.mp4?KEY1=kcexo_SvL_JEr5_AKREmrg&KEY2=1692469340",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Interdimenstional Cable 2: Tempting Fate",
+                    "episodeEmbed": "https://usa7-cache2-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E8.1080p.H264.20200607235229.mp4?KEY1=PSpBYSj0FnxKZZbU6ZUYrQ&KEY2=1692469360",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Look Who's Purging Now",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E9.1080p.H264.20200609180104.mp4?KEY1=i1xCmWhqaA70XOm3s9yt7Q&KEY2=1692469387",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Wedding Squanchers",
+                    "episodeEmbed": "https://usa7-nas03.shegu.net/vip/p1/tv_mp4_h264/8/8/8/2/tv.8.S2E10.1080p.H264.20200607233030.mp4?KEY1=gtIcKbDPeY34AJAkW8YOZw&KEY2=1692469409",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              },{
+                "season": 3,
+                "episodes": [
+                  {
+                    "name": "The Rickshank Rickdemption",
+                    "episodeEmbed": "https://usa7-nas02-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E1.1080p.H264.20200607224801.mp4?KEY1=yy2bLTtWCJHrCnA5UhRSuw&KEY2=1692469510",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rickmancing the Stone",
+                    "episodeEmbed": "https://usa7-nas13-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E2.1080p.H264.20200609174916.mp4?KEY1=KKU4heRVbujMVb58D2nRVw&KEY2=1692469563",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Pickle Rick",
+                    "episodeEmbed": "https://usa7-hs101.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E3.1080p.H264.20200607225348.mp4?KEY1=WZG0r2js4hQnONmA2KmCag&KEY2=1692469577",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Vindicators: The Return of Worldender",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E4.1080p.H264.20200609175108.mp4?KEY1=DVedHla2ogEbEVJ-gZBiNQ&KEY2=1692469596",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Wirly Dirly Conspiracy",
+                    "episodeEmbed": "https://usa7-nas02.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E5.1080p.H264.20200607225933.mp4?KEY1=PIjVEPewy-1b4B_rQ49x4w&KEY2=1692469623",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rest and Ricklaxation",
+                    "episodeEmbed": "https://usa7-nas22.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E6.1080p.H264.20200609175308.mp4?KEY1=g3ySzGha1VqpX6KsRAzM5Q&KEY2=1692469639",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Ricklantis Mixup",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E7.1080p.H264.20200607230537.mp4?KEY1=sjkOQywn_noSXi9G3vSbag&KEY2=1692469655",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Morty's Mindblowers",
+                    "episodeEmbed": "https://usa7-hs101.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E8.1080p.H264.20200609175456.mp4?KEY1=TdrpJGblH9_oWFpW3D-QjA&KEY2=1692469669",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The ABC's of Beth",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E9.1080p.H264.20200607231046.mp4?KEY1=a7fJBUpFr4lo2MdWRALexA&KEY2=1692469694",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "The Rickchurian Mortydate",
+                    "episodeEmbed": "https://usa7-cache13.shegu.net/vip/p1/tv_mp4_h264/8/8/8/3/tv.8.S3E10.1080p.H264.20200609175706.mp4?KEY1=JWx5vwposKoOeEyrDliYMQ&KEY2=1692469711",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              },{
+                "season": 4,
+                "episodes": [
+                  {
+                    "name": "Edge of Tomorty: Rick Die Rickpeat",
+                    "episodeEmbed": "https://usa7-cache1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E1.1080p.H264.20200609175917.mp4?KEY1=WeUazuJorWHxkViST_7iRw&KEY2=1692471555",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "The Old Man and the Seat",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E2.1080p.H264.20200607231746.mp4?KEY1=pfyD_Djm9VZbelbUGEzrig&KEY2=1692471634",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "One Crew Over the Crewcoo's Morty",
+                    "episodeEmbed": "https://usa7-nas22-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E3.1080p.H264.20200607232344.mp4?KEY1=-Gjn7-AuouOGjsezCpri3A&KEY2=1692471656",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Claw and Hoarder: Special Ricktim's Morty",
+                    "episodeEmbed": "https://usa7-nas02.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E4.1080p.H264.20200608000337.mp4?KEY1=S999KNo4rX9xw1gIZdAfmQ&KEY2=1692472253",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Rattlestar Ricklactica",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E5.1080p.H264.20200608000722.mp4?KEY1=kf4PsNxrSITeAHT0AsSQtw&KEY2=1692472290",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Never Ricking Morty",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E6.1080p.H264.20200608001029.mp4?KEY1=_3b5lsbrEG-H6ZyxVi_G5Q&KEY2=1692472301",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Promortyus",
+                    "episodeEmbed": "https://usa7-cache14-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E7.1080p.H264.20200609181339.mp4?KEY1=y2-qngn-P0QwKlrdcReN3A&KEY2=1692472311",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "The Vat of Acid Episode",
+                    "episodeEmbed": "https://usa7-hs101-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E8.1080p.H264.20200608001447.mp4?KEY1=iqCdeVbyzcKCVvij6Nho0A&KEY2=1692472506",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Childrick of Mort",
+                    "episodeEmbed": "https://usa7-cache14.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E9.1080p.H264.20200608011101.mp4?KEY1=0pNwfGqmkHrqEQns7htp2Q&KEY2=1692472517",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Star Mort Rickturn of the Jerri",
+                    "episodeEmbed": "https://usa7-nas15.shegu.net/vip/p1/tv_mp4_h264/8/8/8/4/tv.8.S4E10.1080p.H264.20200601013016.mp4?KEY1=3QgUbRajHstU9yiYJ_LC6g&KEY2=1692472528",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              },{
+                "season": 5,
+                "episodes": [
+                  {
+                    "name": "Mort Dinner Rick Andre",
+                    "episodeEmbed": "https://usa7-nas20-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E1.1080p.H264.20210621225907.mp4?KEY1=Uzf8XU8FagtNiExVKdVafw&KEY2=1692472542",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Mortyplicity",
+                    "episodeEmbed": "https://usa7-nas19-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E2.1080p.H264.20210628060302.mp4?KEY1=O7cQlqZnQ5n0MdiP970pVA&KEY2=1692472719",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "A Rickconvenient Mort",
+                    "episodeEmbed": "https://usa7-nas10-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E3.1080p.H264.20210705031413.mp4?KEY1=lR6A1MdlLEJBoan0eYgLgw&KEY2=1692472729",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rickdependence Spray",
+                    "episodeEmbed": "https://usa7-nas15-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E4.1080p.H264.20210712045824.mp4?KEY1=rT-hlUCrW0ZJKGOXoGgH4A&KEY2=1692472737",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Amortycan Grickfitti",
+                    "episodeEmbed": "https://usa7-nas15.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E5.1080p.H264.20210722022909.mp4?KEY1=KxYtZOyKcdax924Nsu1eLg&KEY2=1692472749",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rick & Morty's Thanksploitation Spectacular",
+                    "episodeEmbed": "https://usa7-cache5.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E6.1080p.H264.20210726024208.mp4?KEY1=bWuqdFxnTV_ERTRCF1UV0Q&KEY2=1692472756",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Gotron Jerrysis Rickvangelion",
+                    "episodeEmbed": "https://usa7-nas16.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E7.1080p.H264.20210802035307.mp4?KEY1=lfbMc8rdj9F-YmJyGC9Erg&KEY2=1692472813",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rickternal Friendshine of the Spotless Mort",
+                    "episodeEmbed": "https://usa7-nas11-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E8.1080p.H264.20210809055308.mp4?KEY1=-MFgTZGwyP3SxY7nNPhtuQ&KEY2=1692472821",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Forgetting Sarick Mortshall",
+                    "episodeEmbed": "https://usa7-nas21-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E9.1080p.H264.20210906012708.mp4?KEY1=OVy-eF6oJ753CbH_ooIpCw&KEY2=1692472838",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rickmurai Jack",
+                    "episodeEmbed": "https://usa7-cache10.shegu.net/vip/p1/tv_mp4_h264/8/8/8/5/tv.8.S5E10.1080p.H264.20210906231908.mp4?KEY1=SXtClV8zpS5lSSdsTXt7-g&KEY2=1692472849",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              },{
+                "season": 6,
+                "episodes": [
+                  {
+                    "name": "Solaricks",
+                    "episodeEmbed": "https://usa7-cache11.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E1.1080p.H264.20220905010605.mp4?KEY1=iZyIJX0yxiRTYHtnVIrDeQ&KEY2=1692473091",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Rick: A Mort Well Lived",
+                    "episodeEmbed": "https://usa7-cache5-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E2.1080p.H264.20220912002303.mp4?KEY1=xUyxH3eBr1krQ2GosSpJUA&KEY2=1692473102",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },
+                  {
+                    "name": "Bethic Twinstinct",
+                    "episodeEmbed": "https://usa7-cache14.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E3.1080p.H264.20220919025704.mp4?KEY1=_QxxXGYJdGKkE-My5Cf-Dw&KEY2=1692473129",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Night Family",
+                    "episodeEmbed": "https://usa7-cache1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E4.1080p.H264.20220926001307.mp4?KEY1=Fi9ssJS5KiBonQnlBcTdow&KEY2=1692473143",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Final DeSmithation",
+                    "episodeEmbed": "https://usa7-cache8-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E5.1080p.H264.20221003091304.mp4?KEY1=zCBHA5oEXsIfB2f0mYhxOg&KEY2=1692473153",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "JuRicksic Mort",
+                    "episodeEmbed": "https://usa7-cache7-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E6.1080p.H264.20221012084703.mp4?KEY1=8wqzdcKzZSMLPvfdo3_Mzg&KEY2=1692473164",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Full Meta Jackrick",
+                    "episodeEmbed": "https://usa7-nas24.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E7.1080p.H264.20221121015303.mp4?KEY1=bDG0siUfNyMbJbQASaXehA&KEY2=1692473175",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Analyze Piss",
+                    "episodeEmbed": "https://usa7-nas18-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E8.1080p.H264.20221128001703.mp4?KEY1=lC6FN2WnbxLdiYI2gIQ70g&KEY2=1692473189",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "A Rick in King Mortur's Mort",
+                    "episodeEmbed": "https://usa7-cache13.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E9.1080p.H264.20221205051109.mp4?KEY1=XBBRvfQzs5mqRwMKL6F32Q&KEY2=1692473201",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  },                  {
+                    "name": "Ricktional Mortpoon's Rickmas Mortcation",
+                    "episodeEmbed": "https://usa7-nas03-1.shegu.net/vip/p1/tv_mp4_h264/8/8/8/6/tv.8.S6E10.1080p.H264.20221212042644.mp4?KEY1=AQBhOl3d3vkaIY914uCemA&KEY2=1692473216",
+                    "banner": "https://cdn.discordapp.com/attachments/1122938531296317630/1137467834461597836/U321312ntitled.png"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
